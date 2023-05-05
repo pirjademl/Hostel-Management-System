@@ -8,7 +8,7 @@ A Simple Hostel Management System using File Handling and GUI in Python To use t
   Step 3 Now, Add The main code of Hostel Management System to your project file(.py)
   ***
 
-Use Username Password  
-Usernane = pirjademl**
-Password=150018**
+#Use Username Password  
+##Usernane = pirjademl**
+##Password=150018**
 
