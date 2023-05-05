@@ -15,4 +15,20 @@ Use Username Password
   
     
     
-##Images
+## Images
+
+![Login](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/Login.png)
+
+![Add Student](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/addStudents.png)
+
+![Add New Room](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/AddNewRoom.png)
+
+![All Information](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/allInfo.png)
+
+![Room Information](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/RoomInfo.png)
+
+![In and Out Time](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/inOutTime.png)
+
+![Visitor](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/visitor.png)
+
+![Leave Application](https://raw.githubusercontent.com/ShaileshGodghase/Hostel-Management-System-/main/Images/Leave-Application.png)
